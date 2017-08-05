@@ -1,5 +1,5 @@
 <?php
-namespase Geega\Skeleton;
+namespace Geega\Skeleton;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {

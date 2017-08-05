@@ -1,5 +1,5 @@
 <?php
-namespase Geega\Skeleton;
+namespace Geega\Skeleton;
 
 class Example {
   public function echo ($msg) {
