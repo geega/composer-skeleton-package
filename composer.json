@@ -13,5 +13,5 @@
         "psr-4": {
             ":vendor\\:package_name\\": "src"
         }
-    },
+    }
 }
