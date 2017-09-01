@@ -34,5 +34,5 @@ $ composer require :vendor/:package_name
 
 ``` php
 $skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+echo $skeleton->echoPhrase('Hello, World!');
 ```
